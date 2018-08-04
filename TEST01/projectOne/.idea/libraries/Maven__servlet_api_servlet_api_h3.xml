@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: servlet-api:servlet-api:h3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Mix/devTool/repositories4maven/servlet-api/servlet-api/h3/servlet-api-h3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Mix/devTool/repositories4maven/servlet-api/servlet-api/h3/servlet-api-h3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Mix/devTool/repositories4maven/servlet-api/servlet-api/h3/servlet-api-h3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
